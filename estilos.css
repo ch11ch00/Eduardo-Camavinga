@@ -6,6 +6,8 @@ p{
     background-color: aqua;
     font-size: large;
     font-family: Arial, Helvetica, sans-serif;
+    border:solid blue 5px;
+    text-align: center;
 }
 .clase1{
         font-family: Arial, Helvetica, sans-serif;
